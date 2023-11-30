@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wil-sys
 - 👀 I’m interested in VR,Rocketry,and Electronics
-- 🌱 I’m currently learning how to code in C++ for a guided model rocket i am developing.
-- 📫 How to reach me ... [Github specific email will be posted soon]
+- 🌱 I’m currently learning how to code in C++
+- 👨🏻‍💻 I am currently developing 2 projects: 'Big Square, Tiny Tower', and multiple GoGuardian bypassers
 - i'm also an ambitios idiot.
 <!---
 wil-sys/wil-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
