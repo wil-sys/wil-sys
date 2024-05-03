@@ -1,4 +1,5 @@
-- I am working on the following projects right now
+I am working on the following projects right now
+- "KobraHybrid" A Hybrid CoreXZ (Markforged XZ) mod for the Anycubic Kobra Go/Neo/2 Neo
+- A custom Klipper dedicated electronics bay replacement for Anycubic Series Printers
 - "Big Square, Tiny Tower", a big tower tiny square fangame
-- "KobraHybrid" A markforgedXZ mod for the anycubic kobra go/neo/2 neo
-- A few random android/chromebook/GoGaurdian exploits.
+- A few random chromebook/ChromeOS (and the android VM)/GoGaurdian exploits.
